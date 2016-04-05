@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<data>
+  <komplain>
+    <status>Menunggu</status>
+    <nokomplain>1</nokomplain>
+    <tglkomplain>2016-01-07</tglkomplain>
+    <layananygdikomplain>Cargoboox</layananygdikomplain>
+    <isikomplain>tes cobas dsffds bla bla bla bla bla bla bla bla bla dsfasfa bal bsafdsfa bla dsfa bla</isikomplain>
+    <usernamecustomer>suci</usernamecustomer>
+    <notanggapan></notanggapan>
+    <tgltanggapan></tgltanggapan>
+    <usernameadmin></usernameadmin>
+    <isitanggapan></isitanggapan>
+  </komplain>
+  <komplain>
+    <status>Ditanggapi</status>
+    <nokomplain>10</nokomplain>
+    <tglkomplain>2016-04-02</tglkomplain>
+    <layananygdikomplain>Cargoboox</layananygdikomplain>
+    <isikomplain>bla bla bla bla bla bla bla bla bla dsfasfa bal bsafdsfa bla dsfa bla</isikomplain>
+    <usernamecustomer>suci</usernamecustomer>
+    <notanggapan>2</notanggapan>
+    <tgltanggapan>2016-04-04</tgltanggapan>
+    <usernameadmin>rays</usernameadmin>
+    <isitanggapan>tangaapan dsafd fasdfsadf asdfsadf asdfasdf asdfdsaf sadfsadfdsa fdasfassadf asdfasfsdafasdf sdafsdaf sadfsdafda sdafasdf sadfasdf asfas</isitanggapan>
+  </komplain>
+  <komplain>
+    <status>Menunggu</status>
+    <nokomplain>12</nokomplain>
+    <tglkomplain>2016-04-04</tglkomplain>
+    <layananygdikomplain>Cargoboox</layananygdikomplain>
+    <isikomplain>komplainbla bla bal asdfsaf sdafasdf asdf adsf asdf asf asdf asdf </isikomplain>
+    <usernamecustomer>tuti</usernamecustomer>
+    <notanggapan></notanggapan>
+    <tgltanggapan></tgltanggapan>
+    <usernameadmin></usernameadmin>
+    <isitanggapan></isitanggapan>
+  </komplain>
+  <komplain>
+    <status>Menunggu</status>
+    <nokomplain>13</nokomplain>
+    <tglkomplain>2016-04-04</tglkomplain>
+    <layananygdikomplain>Servicesboox</layananygdikomplain>
+    <isikomplain>komplainblassscs scs ssd bla bal asdfsaf sdafasdf asdf adsf asdf asf asdf asdf </isikomplain>
+    <usernamecustomer>tuti</usernamecustomer>
+    <notanggapan></notanggapan>
+    <tgltanggapan></tgltanggapan>
+    <usernameadmin></usernameadmin>
+    <isitanggapan></isitanggapan>
+  </komplain>
+  <komplain>
+    <status>Menunggu</status>
+    <nokomplain>14</nokomplain>
+    <tglkomplain>2016-04-04</tglkomplain>
+    <layananygdikomplain>Cargoboox</layananygdikomplain>
+    <isikomplain>dsfafsadf dsafafsadf sdsdafas dsfafsadf dsafafsadf sdsdafasdsfafsadf dsafafsadf sdsdafasdsfafsadf dsafafsadf sdsdafasdsfafsadf dsafafsadf sdsdafas</isikomplain>
+    <usernamecustomer>tuti</usernamecustomer>
+    <notanggapan></notanggapan>
+    <tgltanggapan></tgltanggapan>
+    <usernameadmin></usernameadmin>
+    <isitanggapan></isitanggapan>
+  </komplain>
+</data>
