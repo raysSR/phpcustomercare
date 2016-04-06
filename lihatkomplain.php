@@ -35,12 +35,12 @@ if (isset($_SESSION['usernamecustomer'])){
 		<?php if ($data['status']=='Ditanggapi'){ ?>
 		
                 <div class="form-group">
-                    <label for="txtkomplain">Komplain Anda</label>
+                    <label for="txtkomplain">Tanggal Ditanggapi</label>
                     <br><?php echo $data['tgltanggapan']; ?>
                 </div>		
 
                 <div class="form-group">
-                    <label for="txtkomplain">Komplain Anda</label>
+                    <label for="txtkomplain">Isi Tanggapan</label>
                     <br><?php echo $data['isitanggapan']; ?>
                 </div>		
 		<?php } 
